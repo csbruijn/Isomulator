@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: c06fe52b187279744a28d8ad12953dd2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - HFMonorita
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f654895813291764d9059da3f4bc3506, type: 3}
+  - {fileID: 12800000, guid: 1084595d63eff5b488acda6d5957fa2a, type: 3}
+  - {fileID: 12800000, guid: 73ecd98e0100f1a4e83ee6d89f31789b, type: 3}
+  - {fileID: 12800000, guid: 49e06dc8e8aa50146b229a956a68e7cb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4a6aac8a19e0833449104829f0471f1f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Kevlar Underwear
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8a7aa4958aebb0142a5db8e4ab04bfa8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

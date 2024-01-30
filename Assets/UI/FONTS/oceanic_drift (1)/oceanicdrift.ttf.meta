@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 95dbe30ce98b25643a0a102369e21b66
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Oceanic Drift
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6e98f8fe6628af84a95c626546199d80, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
